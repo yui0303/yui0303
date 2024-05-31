@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I am Yu-Cheng, you can call me Peter.
+- 🔭 I'm researching on how to deploy or optimize Large Language Models (LLMs) on edge devices using TVM and Llama.cpp.
+- 🌱 I'm currently learning some DevOps tools, exploring UI/UX design, and gaining a bit of backend knowledge.
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yui0303&layout=compact)
+
 <!--
 **yui0303/yui0303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

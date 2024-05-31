@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 I am Yu-Cheng, you can call me Peter.
-- 🔭 I'm researching on how to deploy or optimize Large Language Models (LLMs) on edge devices using TVM and Llama.cpp.
+- 🔭 I'm researching how to deploy or optimize Large Language Models (LLMs) on edge devices using TVM and Llama.cpp.
 - 🌱 I'm currently learning some DevOps tools, exploring UI/UX design, and gaining a bit of backend knowledge.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yui0303&layout=compact)
